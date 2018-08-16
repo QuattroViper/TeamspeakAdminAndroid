@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pre_items">
+        <item>Barbaric</item>
+        <item>MusicBot</item>
+        <item>Breker</item>
+        <item>Z_TELZA_z</item>
+    </string-array>
+</resources>
